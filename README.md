@@ -1,6 +1,7 @@
 # FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models
 
-![Picture1](https://github.com/BillyXYB/FDNeRF_Test/assets/49705209/31d8cb07-62bf-4486-942c-fafc0e6581b6)
+![Picture1](https://github.com/BillyXYB/FDNeRF/assets/49705209/70f8c597-f9db-482c-b585-28709ff6f468)
+
 
 ## Abstract
 The ability to create high-quality 3D faces from a single image has become in-
@@ -20,16 +21,28 @@ produce more impressive results than existing 2D editing approaches that rely on
 achieves exceptionally realistic results and unprecedented flexibility in editing
 compared with state-of-the-art 3D face reconstruction and editing methods
 
+![pipeline](https://github.com/BillyXYB/FDNeRF/assets/49705209/5af0e7fe-806b-4f9a-a68b-092917753496)
 
-![pipeline](https://github.com/BillyXYB/FDNeRF_Test/assets/49705209/10204f06-b4be-4edd-ae28-bcd50c95f377)
+
+
 
 
 ## Text-Conditioned 3D Editing on Single Image (include other domians)
-https://github.com/BillyXYB/FDNeRF_Test/assets/49705209/7d579957-9c41-40a6-95de-b7d59fbbf3d8
+https://github.com/BillyXYB/FDNeRF/assets/49705209/a6e9a410-2487-41d5-ab77-23fc6992dff2
+
+
+
+
 
 ## Explicit View-consistant 3D Relighting
-https://github.com/BillyXYB/FDNeRF_Test/assets/49705209/9854153e-51bf-44be-8792-eb1b6f83c237
+
+https://github.com/BillyXYB/FDNeRF/assets/49705209/e1c3fcef-7fe3-432f-b58c-60aa0a798dcb
+
+
+
+
 
 ## Text-Condition Generation (include other domians)
-https://github.com/BillyXYB/FDNeRF_Test/assets/49705209/2dfee043-c06d-49af-934c-26e04effdb6c
+
+https://github.com/BillyXYB/FDNeRF/assets/49705209/caf123ce-a63a-4692-beed-be685d3b29a9
 
