@@ -46,3 +46,20 @@ https://github.com/BillyXYB/FDNeRF/assets/49705209/e1c3fcef-7fe3-432f-b58c-60aa0
 
 https://github.com/BillyXYB/FDNeRF/assets/49705209/caf123ce-a63a-4692-beed-be685d3b29a9
 
+
+## Paper & Citation
+Link to [**Paper**](https://arxiv.org/abs/2306.00783) 
+
+If you find this work useful for your research, please cite our paper:
+
+```bibtex
+@misc{zhang2023fdnerf,
+      title={FDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models}, 
+      author={Hao Zhang and Yanbo Xu and Tianyuan Dai and Yu-Wing and Tai Chi-Keung Tang},
+      year={2023},
+      eprint={2306.00783},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
